@@ -1,0 +1,32 @@
+.encabezado{
+	margin: 30px 20px;
+}
+
+.salto{
+	width: 50px;
+	border:2px solid black;
+}
+
+.marco{
+	width: 740px;
+	height: 500px;
+	margin: 30px;
+	position: relative;
+}
+
+.contenedor{
+	width:210px; 
+	height:210px;
+	margin: 15px;
+	position: relative;
+	display: inline-block;
+	opacity: 0.5;
+}
+
+.nombre{
+	color: white;
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+}
+
